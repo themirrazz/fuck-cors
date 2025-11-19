@@ -24,4 +24,4 @@ await (await fetch("https://api.example.com/", { method: "GET", mode: "fuck-cors
 ```html
 <script src='https://themirrazz.nekoweb.org/my/fuck-cors/polyfills.min.js'></script>
 <script src='https://themirrazz.nekoweb.org/my/fuck-cors/dist.min.js'></script>
-``
+```
