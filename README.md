@@ -17,12 +17,11 @@ await (await fetch("https://api.example.com/", { method: "GET", mode: "fuck-cors
 
 ## INSTALL IT FOR FREE!!1!1
 ```html
-<script src='https://themirrazz.nekoweb.org/lib/fuck-cors.js'></script>
+<script src='https://themirrazz.nekoweb.org/my/fuck-cors/dist.min.js'></script>
 ```
 
 ## FOR IE ADDICTS
 ```html
-<script>function Request() { }</script>
-<script src='https://themirrazz.nekoweb.org/lib/polyf.js'></script>
-<script src='https://themirrazz.nekoweb.org/lib/fuck-cors.js'></script>
-```
+<script src='https://themirrazz.nekoweb.org/my/fuck-cors/polyfills.min.js'></script>
+<script src='https://themirrazz.nekoweb.org/my/fuck-cors/dist.min.js'></script>
+``
